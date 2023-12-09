@@ -49,8 +49,7 @@ initPrivate()
 {
 	self.Private = [];
 
-	self.Private["info"] = [];
-	self.Private["info"][0] = "				Created by ^3xTurntUpLobbies";
+	self.Private["info"] = [];;
 	self.Private["info"][1] = "				[{+attack}][{+speed_throw}]Up/Down";
 	self.Private["info"][2] = "				[{+gostand}]Select [{+reload}]Back";
 	self.Private["info"][3] = "				[{+melee}] or [{+stance}] To Exit";
